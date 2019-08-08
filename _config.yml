@@ -1,7 +1,7 @@
 ﻿# Jekyll configuration
 
 name: SYK
-description: Welcome to SYK!
+description: "Welcome to SYK!"
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://github.com/zxixia/jekyll-xixia
